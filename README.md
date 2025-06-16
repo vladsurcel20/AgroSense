@@ -76,9 +76,9 @@ Welcome to **AgroSense** – a modern, full-stack web application for real-time 
 ## 📂 Project Structure (Frontend)
 
 Below is an overview of the **frontend project structure** for transparency:
-<img src="https://imgur.com/uMBJ4rM" alt="FE files structure" />
+<img src="https://imgur.com/uMBJ4rM.png" alt="FE files structure" />
 
 ## 📂 Project Structure (Backend)
 
 Below is an overview of the **backend project structure** for transparency:
-<img src="https://imgur.com/Og9CiiA" alt="FE files structure" />
+<img src="https://imgur.com/Og9CiiA.png" alt="FE files structure" />
